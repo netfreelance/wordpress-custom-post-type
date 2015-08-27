@@ -1,12 +1,12 @@
 <?php
 
-namespace Grimlock\CPT;
+namespace WebDevDude;
 
 /**
  * Class CustomPostType
  *
- * @package WordPress
- * @subpackage WP_Canvas
+ * @package CustomPostType
+ * @subpackage WordPress
  */
 
 class CustomPostType {
