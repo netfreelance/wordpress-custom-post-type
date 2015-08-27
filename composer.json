@@ -1,0 +1,12 @@
+{
+    "name": "chrisblackwell/wordpress-custom-post-type",
+    "description": "Easily create custom post types in WordPress using an easy to understand API",
+    "authors": [
+        {
+            "name": "Chris Blackwell",
+            "email": "chris@chrisblackwell.me"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
