@@ -3,8 +3,7 @@
     "description": "Easily create custom post types in WordPress using an easy to understand API",
     "authors": [
         {
-            "name": "Chris Blackwell",
-            "email": "chris@chrisblackwell.me"
+            "name": "Chris Blackwell"
         }
     ],
     "license": "GPL-3.0+",
