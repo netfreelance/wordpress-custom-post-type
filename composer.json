@@ -7,6 +7,12 @@
             "email": "chris@chrisblackwell.me"
         }
     ],
+    "license": "GPL-3.0+",
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "php": ">=5.3.1"
+    },
+    "autoload": {
+        "psr-4": {"WebDevDude\\": "src/"}
+    }
 }
